@@ -1,0 +1,2014 @@
+{
+  "1": {
+    "created": "2013-12-16T23:40:05",
+    "labels": [],
+    "merge_commit": "02fe5501bd26a35b1784cd6395a1f295734f9b68",
+    "merged": "2014-05-16T22:46:42",
+    "milestone": "v0.4.0",
+    "title": "Initial implementation of astropy_helpers",
+    "updated": "2016-06-02T21:06:28"
+  },
+  "10": {
+    "created": "2014-05-21T06:19:14",
+    "labels": [],
+    "merge_commit": "793c8e77f0522c141b5796ee345cbab06c79a0d3",
+    "merged": "2014-05-21T06:31:25",
+    "milestone": "v0.4.0",
+    "title": "Make sure that astropy_helpers/src gets installed",
+    "updated": "2016-06-02T21:06:28"
+  },
+  "100": {
+    "created": "2014-10-24T11:48:37",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "504e4515dc7db5d7a6cf53d27ee031654b18d851",
+    "merged": "2014-10-30T23:57:30",
+    "milestone": "v0.4.4",
+    "title": "Fix Python 3 failure in automodsumm",
+    "updated": "2014-10-31T14:58:13"
+  },
+  "101": {
+    "created": "2014-10-24T17:32:47",
+    "labels": [],
+    "merge_commit": "5a2db6c8848f48f6b2787de3c3c9638e5ec4bb61",
+    "merged": "2014-10-27T13:54:44",
+    "milestone": "v1.0.0",
+    "title": "Coverage is incomplete due to some tests running in sub-processes",
+    "updated": "2016-06-02T21:08:36"
+  },
+  "102": {
+    "created": "2014-10-24T17:44:45",
+    "labels": [],
+    "merge_commit": "f9d858897a8563b3cb506694d4e930c42af33fa1",
+    "merged": "2014-10-24T17:59:51",
+    "milestone": "v0.4.4",
+    "title": "Remove unused imports",
+    "updated": "2014-10-24T17:59:51"
+  },
+  "106": {
+    "created": "2014-11-19T16:00:28",
+    "labels": [],
+    "merge_commit": "00145392730c641a4e5a9f223355c7fc15f34695",
+    "merged": "2014-11-20T21:58:58",
+    "milestone": "v0.4.4",
+    "title": "Add information about the requirement for the open-files flag",
+    "updated": "2014-11-20T21:58:58"
+  },
+  "108": {
+    "created": "2014-12-01T02:58:29",
+    "labels": [],
+    "merge_commit": "43fa92f984360ce290fcef4fdb63510ad52c34c7",
+    "merged": "2014-12-01T22:17:57",
+    "milestone": "v0.4.4",
+    "title": "Fixed minor typos",
+    "updated": "2014-12-01T22:18:01"
+  },
+  "11": {
+    "created": "2014-05-21T06:30:29",
+    "labels": [],
+    "merge_commit": "03fe6d5de46dd9b9e754b803c8ebf39c21477e33",
+    "merged": "2014-05-21T06:37:10",
+    "milestone": "v0.4.0",
+    "title": "Fix rebuilding bug",
+    "updated": "2016-06-02T21:06:28"
+  },
+  "110": {
+    "created": "2014-12-09T18:33:48",
+    "labels": [],
+    "merge_commit": "6bac82e4e424a304b54699c5955979dc95cc6411",
+    "merged": "2014-12-11T20:08:21",
+    "milestone": "v1.0.0",
+    "title": "Reorganize setup_helpers a bit",
+    "updated": "2014-12-15T15:15:47"
+  },
+  "111": {
+    "created": "2014-12-09T20:54:27",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "1545d230b57997b8f8491170d5b0da779dbb6a87",
+    "merged": "2014-12-11T17:09:05",
+    "milestone": "v0.4.4",
+    "title": "Fixes an issue with the build_sphinx test",
+    "updated": "2014-12-11T17:09:19"
+  },
+  "112": {
+    "created": "2014-12-11T20:04:11",
+    "labels": [
+      "enhancement"
+    ],
+    "merge_commit": "b5651116e82096604cb93b23f02e084fef748b1c",
+    "merged": "2014-12-16T15:42:31",
+    "milestone": "v1.0.0",
+    "title": "Command hooks",
+    "updated": "2014-12-16T15:42:33"
+  },
+  "115": {
+    "created": "2014-12-16T17:31:51",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "da41077dcb70194bf8d2c3d39fa3894d829dff42",
+    "merged": "2014-12-16T22:55:01",
+    "milestone": "v0.4.4",
+    "title": "Some Python 3 fixes for the import_file utility",
+    "updated": "2014-12-16T22:55:03"
+  },
+  "119": {
+    "created": "2014-12-27T15:04:33",
+    "labels": [],
+    "merge_commit": "2a4f71e5dc360e759a8d6738ab4c829ea33f10ad",
+    "merged": "2014-12-29T17:52:45",
+    "milestone": "v1.0.0",
+    "title": "Added files required by AppVeyor",
+    "updated": "2014-12-29T17:52:45"
+  },
+  "123": {
+    "created": "2015-01-17T22:34:10",
+    "labels": [],
+    "merge_commit": "f17670e9243348ea92b4c5a2657424112aaf4481",
+    "merged": "2015-01-22T16:59:33",
+    "milestone": "v0.4.5",
+    "title": "Adding builtins.object to local python3 inventory to fix broken links ...",
+    "updated": "2015-01-22T16:59:33"
+  },
+  "124": {
+    "created": "2015-01-20T17:49:36",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "ba1de935c188ef4540d2e161441ef7d02610584a",
+    "merged": "2015-01-21T23:54:18",
+    "milestone": "v0.4.5",
+    "title": "Errors with latest setuptools",
+    "updated": "2015-01-22T16:04:45"
+  },
+  "126": {
+    "created": "2015-01-20T17:22:47",
+    "labels": [],
+    "merge_commit": "00e1a7fb6a35366c9bdabcfb9f5f92fbf0cc669c",
+    "merged": "2015-01-23T10:56:09",
+    "milestone": "v1.0.0",
+    "title": "Add a Travis config to test with the latest developer version of setuptools",
+    "updated": "2016-06-02T21:08:36"
+  },
+  "127": {
+    "created": "2015-11-20T22:56:07",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "b80002ce8013680c79c2b857675a8e8ddab416ab",
+    "merged": "2015-11-24T17:12:46",
+    "milestone": "v1.1.0",
+    "title": "Get tests working on py.test 2.6",
+    "updated": "2016-06-02T21:19:25"
+  },
+  "128": {
+    "created": "2015-01-22T19:49:37",
+    "labels": [],
+    "merge_commit": "03c27015c9c07c6e549dc498bb51e471cd27b02b",
+    "merged": "2015-01-26T18:33:53",
+    "milestone": "v1.0.0",
+    "title": "Enable MacOS X testing",
+    "updated": "2015-01-26T22:16:21"
+  },
+  "129": {
+    "created": "2015-01-22T23:20:13",
+    "labels": [],
+    "merge_commit": "cffd3c682a2be192d3eed6ced8562c8d549ec6ac",
+    "merged": "2015-01-23T17:54:12",
+    "milestone": "v1.0.0",
+    "title": "Adds the `deprecated` decorator for classes and functions",
+    "updated": "2015-01-23T17:54:13"
+  },
+  "13": {
+    "created": "2014-05-21T12:13:41",
+    "labels": [],
+    "merge_commit": "1c1f0865f74aa289da3f0041b87fb097b969a2c9",
+    "merged": "2014-06-03T12:19:59",
+    "milestone": "v0.4.0",
+    "title": "Adding \"hide prompt and output\" feature for docs codeblocks",
+    "updated": "2016-06-02T21:06:29"
+  },
+  "130": {
+    "created": "2015-01-23T21:29:15",
+    "labels": [],
+    "merge_commit": "d6e7cb2a8ce0b946834e7f55cf1cdd939765b1e9",
+    "merged": "2015-01-26T18:09:13",
+    "milestone": "v0.4.5",
+    "title": "Add autodoc attrgetter workaround for classes",
+    "updated": "2015-01-26T18:09:14"
+  },
+  "131": {
+    "created": "2015-01-23T21:35:31",
+    "labels": [],
+    "merge_commit": "f8f75274cdb7fe7a86854672977f005da0c2c9d9",
+    "merged": "2015-01-26T18:11:35",
+    "milestone": "v1.0.0",
+    "title": "Deprecate AstropyAutosummary",
+    "updated": "2015-01-26T18:11:37"
+  },
+  "132": {
+    "created": "2015-01-27T18:18:58",
+    "labels": [
+      "Affects-dev"
+    ],
+    "merge_commit": "08e64f4846bd4c5371e51f1a737916c863735118",
+    "merged": "2015-01-27T19:57:39",
+    "milestone": "v1.0.0",
+    "title": "Bootstrap fixes",
+    "updated": "2017-05-29T16:26:31"
+  },
+  "135": {
+    "created": "2015-02-09T15:43:48",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "341b2bcfd439dc10d947e027b0230ede47ff84af",
+    "merged": "2015-02-09T18:07:28",
+    "milestone": "v1.0.0",
+    "title": "Fixing typos",
+    "updated": "2017-05-29T16:26:49"
+  },
+  "136": {
+    "created": "2015-02-10T23:08:50",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "4231cc8c53e0f5eb02b6aa2f9fbfcf55ec74922a",
+    "merged": "2015-02-11T17:48:50",
+    "milestone": "v0.4.5",
+    "title": "Python 3 fixes",
+    "updated": "2017-05-29T16:30:09"
+  },
+  "137": {
+    "created": "2015-02-10T23:28:21",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "6a76a62e693eec12215f80a93fc133c47d9a55ac",
+    "merged": "2015-02-11T22:02:57",
+    "milestone": "v0.4.5",
+    "title": "Fixes to version.py",
+    "updated": "2015-02-11T22:03:00"
+  },
+  "139": {
+    "created": "2015-02-13T21:22:36",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "446f214baee19c3b185f89e2f56df6cf2a3cc82d",
+    "merged": "2015-02-13T22:48:41",
+    "milestone": "v0.4.6",
+    "title": "Fixes to the auto-generated _compiler module",
+    "updated": "2015-02-13T22:48:42"
+  },
+  "14": {
+    "created": "2014-05-21T13:09:50",
+    "labels": [],
+    "merge_commit": "eda6d8971f1a85474c548534ebb752a9348b0ba2",
+    "merged": "2014-05-22T08:10:34",
+    "milestone": "v0.4.0",
+    "title": "Copy the _compiler.c file to the package",
+    "updated": "2016-06-02T21:06:29"
+  },
+  "141": {
+    "created": "2015-02-17T20:43:40",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "f02fdd9afeec1fcc1636b764fa315e505b4f7ffa",
+    "merged": "2015-02-17T21:33:39",
+    "milestone": "v0.4.7",
+    "title": "githash = 'None' when running generate_version_py for the first time with uses_get=False",
+    "updated": "2015-02-17T21:35:09"
+  },
+  "144": {
+    "created": "2015-02-25T20:45:49",
+    "labels": [],
+    "merge_commit": "f45f3d2dc4a3953dab0ae8e0164b0b263e726bf2",
+    "merged": "2015-02-27T20:32:26",
+    "milestone": "v0.4.8",
+    "title": "Allow astropy-helpers to override itself",
+    "updated": "2016-06-02T21:22:06"
+  },
+  "147": {
+    "created": "2015-04-02T20:46:04",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "948250774841fd26a3d3c32bd18b783c3f763d9d",
+    "merged": "2015-04-02T22:40:44",
+    "milestone": "v1.0.2",
+    "title": "auto-upgrade can break when a previous install of a different package *also* auto-upgraded astropy-helpers",
+    "updated": "2015-04-02T22:40:46"
+  },
+  "148": {
+    "created": "2015-03-19T18:25:30",
+    "labels": [],
+    "merge_commit": "94c2b652fe468424292325000c18516f9d9bbcc8",
+    "merged": "2015-03-30T15:18:52",
+    "milestone": "v1.0.2",
+    "title": "sphinx.ext.automodsumm broken with Sphinx 1.3",
+    "updated": "2015-03-30T15:18:54"
+  },
+  "150": {
+    "created": "2015-03-26T22:29:33",
+    "labels": [],
+    "merge_commit": "467effd0ea0eb79137a73c449e7f1ac132551062",
+    "merged": "2015-03-28T21:01:45",
+    "milestone": "v1.0.2",
+    "title": "Update favicon to multi-res for HiDPI displays",
+    "updated": "2015-03-28T21:01:45"
+  },
+  "151": {
+    "created": "2015-03-27T01:46:58",
+    "labels": [],
+    "merge_commit": "644287f6caf88ba6dd2ed8f67e4b0fbe632bce7e",
+    "merged": "2015-03-28T20:58:01",
+    "milestone": "v1.0.2",
+    "title": "Better HiDPI support.",
+    "updated": "2015-03-28T21:02:31"
+  },
+  "152": {
+    "created": "2015-03-27T21:43:24",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "b4fe3048c56053269f1eaa042fc77057bf55c8d8",
+    "merged": "2015-03-28T23:27:45",
+    "milestone": "v1.0.2",
+    "title": "Fix CI builds",
+    "updated": "2017-05-29T16:33:49"
+  },
+  "153": {
+    "created": "2015-03-30T20:41:31",
+    "labels": [],
+    "merge_commit": "bc07aaef708f21eef9e1410ff6f3be1f73fa0148",
+    "merged": "2015-04-02T16:10:28",
+    "milestone": "v1.0.2",
+    "title": "Improve get_compiler_version",
+    "updated": "2015-04-02T16:10:30"
+  },
+  "158": {
+    "created": "2015-04-10T18:13:49",
+    "labels": [],
+    "merge_commit": "09892e3a218bbb415f29eec004ef0ea9c92f38b7",
+    "merged": "2015-04-10T19:49:37",
+    "milestone": "v1.0.3",
+    "title": "Adds a possible (?) workaround to sphinx-doc/sphinx#1843",
+    "updated": "2015-04-10T19:52:20"
+  },
+  "16": {
+    "created": "2014-05-21T15:11:35",
+    "labels": [],
+    "merge_commit": "bd56ce163b3c694654f3d7d95e48335d81a910df",
+    "merged": "2014-05-22T17:33:23",
+    "milestone": "v0.4.0",
+    "title": "Use rev-list --count rather than just rev-list",
+    "updated": "2016-06-02T21:06:29"
+  },
+  "160": {
+    "created": "2015-04-22T08:22:41",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "0fba0320754677789900b108758749c344f5dc5b",
+    "merged": "2015-04-28T16:25:12",
+    "milestone": "v1.0.3",
+    "title": "Fix invalid HTML",
+    "updated": "2017-05-29T16:38:45"
+  },
+  "161": {
+    "created": "2015-04-29T09:47:46",
+    "labels": [
+      "enhancement"
+    ],
+    "merge_commit": "1d499c85524f23726e8324c59195f31ea247192c",
+    "merged": "2015-07-07T17:08:56",
+    "milestone": "v1.0.3",
+    "title": "add build_docs command/alias",
+    "updated": "2015-07-14T22:17:01"
+  },
+  "164": {
+    "created": "2015-05-08T17:22:41",
+    "labels": [
+      "bug",
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "267ad5f390aee700b7f0409ff71c35ee2b9bea1e",
+    "merged": "2015-05-12T18:58:11",
+    "milestone": "v1.0.3",
+    "title": "Fix css for Sphinx 1.3",
+    "updated": "2017-05-29T16:49:28"
+  },
+  "169": {
+    "created": "2015-07-02T23:19:19",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "d5877065667b06f79774b18c628c8b1c5769a4c7",
+    "merged": "2015-07-05T16:37:22",
+    "milestone": "v1.0.3",
+    "title": "Make the font of graphviz diagrams match the HTML",
+    "updated": "2015-07-05T16:37:27"
+  },
+  "17": {
+    "created": "2014-05-21T16:31:54",
+    "labels": [],
+    "merge_commit": "05894ea9cac87f8305dcc507a09f091afe385084",
+    "merged": "2014-05-23T06:40:25",
+    "milestone": "v0.4.0",
+    "title": "Don't call out to git if we're sure it will fail",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "170": {
+    "created": "2015-07-02T23:27:30",
+    "labels": [
+      "enhancement"
+    ],
+    "merge_commit": "a3051867d39f490228a65d80cf029cceabf27970",
+    "merged": "2015-07-06T15:36:16",
+    "milestone": "v1.0.3",
+    "title": "Use mathjax for math rendering on readthedocs",
+    "updated": "2015-07-08T20:57:30"
+  },
+  "171": {
+    "created": "2015-07-07T17:06:11",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "ff46ddae690fdc60e52a3a1e643588e811698df9",
+    "merged": "2015-07-08T18:46:33",
+    "milestone": "v1.0.3",
+    "title": "This decorator shouldn't always assume that the docstring exists at a\u2026",
+    "updated": "2015-07-08T18:46:36"
+  },
+  "172": {
+    "created": "2015-11-24T23:03:45",
+    "labels": [
+      "bug",
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "565c5dfd49661a97a8363385944fc58393ab97eb",
+    "merged": "2015-11-25T15:02:51",
+    "milestone": "v1.1.0",
+    "title": "Method summary table in HTML docs is empty",
+    "updated": "2017-05-29T18:46:11"
+  },
+  "173": {
+    "created": "2015-07-16T05:32:34",
+    "labels": [],
+    "merge_commit": "33d10e8a92c27756a1771eae0dc9d8599cd84344",
+    "merged": "2015-07-16T18:31:25",
+    "milestone": "v1.0.3",
+    "title": "accept cpp files as valid Cython-produced outputs",
+    "updated": "2015-07-20T19:03:18"
+  },
+  "174": {
+    "created": "2015-07-17T21:48:34",
+    "labels": [
+      "Affects-dev"
+    ],
+    "merge_commit": "20111ca8a9b30928e2e90fc3ca21c630d658f5ab",
+    "merged": "2015-07-21T14:57:29",
+    "milestone": "v1.0.3",
+    "title": "Slight tweak to ensure that the (possible) C++ filename associated wi\u2026",
+    "updated": "2017-05-29T17:05:35"
+  },
+  "175": {
+    "created": "2015-07-21T16:56:53",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "3ae5c771ec51e3a222b92bc4dca2cbb54d92c710",
+    "merged": "2015-08-17T17:57:30",
+    "milestone": "v1.1.0",
+    "title": "Fix output of build_sphinx -w option in py 3.x",
+    "updated": "2017-05-29T16:55:05"
+  },
+  "180": {
+    "created": "2015-08-19T17:48:50",
+    "labels": [],
+    "merge_commit": "fd2a83c0bf1ad1a2fa1df6576c907dfbdae15da9",
+    "merged": "2015-08-19T20:01:49",
+    "milestone": "v1.0.4",
+    "title": "Fix for issue #179",
+    "updated": "2015-08-19T20:01:49"
+  },
+  "181": {
+    "created": "2015-08-21T20:46:01",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "56768e0a86d0ed275f1ce8e89716cff7ba17d736",
+    "merged": "2015-09-10T14:12:58",
+    "milestone": "v1.0.4",
+    "title": "Fixed malformatting of an error message",
+    "updated": "2015-09-10T14:13:00"
+  },
+  "182": {
+    "created": "2015-09-02T23:23:30",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "c2b9ba6caf753a9cd02ddb79878bbda57c211384",
+    "merged": "2015-09-04T19:07:42",
+    "milestone": "v1.0.4",
+    "title": "Crash in adjust_compiler when usable compiler isn't found",
+    "updated": "2015-09-04T19:07:44"
+  },
+  "183": {
+    "created": "2015-09-14T18:35:29",
+    "labels": [],
+    "merge_commit": "b949c674215d0c20e5c06452111d76a6bdf830fd",
+    "merged": "2015-09-14T18:40:19",
+    "milestone": "v1.0.4",
+    "title": "Squelch Numpy deprecation warnings when building Cython extensions",
+    "updated": "2015-09-14T18:40:22"
+  },
+  "184": {
+    "created": "2015-09-14T20:45:43",
+    "labels": [],
+    "merge_commit": "0de34a03c5be8f4fd11352db08930b520f0c8860",
+    "merged": "2015-09-16T19:12:05",
+    "milestone": "v1.1.0",
+    "title": "Test command refactor",
+    "updated": "2015-09-16T19:12:13"
+  },
+  "185": {
+    "created": "2015-09-15T17:37:48",
+    "labels": [],
+    "merge_commit": "29d0ec00f7ed16e3e50972a117fe9494dc5ed00f",
+    "merged": "2015-10-08T17:23:13",
+    "milestone": "v1.1.0",
+    "title": "Add Cython support to the build_ext command late in the setup process",
+    "updated": "2015-10-08T17:23:14"
+  },
+  "186": {
+    "created": "2015-09-15T18:00:48",
+    "labels": [],
+    "merge_commit": "a2aecd6b9db8bb7ca433a5e48977ee0bfb9cdd3e",
+    "merged": "2015-09-15T20:52:07",
+    "milestone": "v1.0.4",
+    "title": "Followup to #183 to fix building with MSVC",
+    "updated": "2015-09-15T20:52:10"
+  },
+  "188": {
+    "created": "2015-09-17T21:36:51",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "cd618be7259ea46aaa4a9b9acd03732cf29f49b2",
+    "merged": "2015-09-22T17:02:52",
+    "milestone": "v1.1.0",
+    "title": "Adds an option to set the base directory for temporary test files",
+    "updated": "2017-05-29T16:58:35"
+  },
+  "19": {
+    "created": "2014-05-27T18:34:25",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "27ada67888f6e1756251d9e3b7c4e3131c11bb3b",
+    "merged": "2014-05-28T06:11:44",
+    "milestone": "v0.4.0",
+    "title": "Building C (Cython?) code causes build to happen twice, but not three times",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "190": {
+    "created": "2015-09-21T17:03:52",
+    "labels": [],
+    "merge_commit": "b8edacf8a9ac20efb1e88c335ecc85bae9dbe9a5",
+    "merged": "2015-09-28T16:30:08",
+    "milestone": "v1.0.4",
+    "title": "Port #189 to master",
+    "updated": "2017-05-29T19:00:26"
+  },
+  "191": {
+    "created": "2015-09-23T16:25:08",
+    "labels": [],
+    "merge_commit": "ff4f72cdc096255036e34dde28c3dec4f5e0d871",
+    "merged": "2015-09-23T17:15:33",
+    "milestone": "v1.1.0",
+    "title": "Fix astropy import before _ASTROPY_SETUP_ is set",
+    "updated": "2015-09-23T17:15:36"
+  },
+  "192": {
+    "created": "2015-09-29T15:22:53",
+    "labels": [
+      "Affects-dev"
+    ],
+    "merge_commit": "a26671f8a5fa10d332ebd7778d811ecb6ee86e90",
+    "merged": "2015-09-30T14:06:50",
+    "milestone": "v1.1.0",
+    "title": "Fixed a regression introduced by by #184 that caused testing to always default to verbose results",
+    "updated": "2017-05-29T17:04:12"
+  },
+  "193": {
+    "created": "2015-09-30T14:18:06",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "66c7c1563c57141f7fa257b371896e7e81585a04",
+    "merged": "2015-10-02T20:04:25",
+    "milestone": "v1.1.0",
+    "title": "Adds a coveragerc file",
+    "updated": "2017-05-29T17:06:19"
+  },
+  "194": {
+    "created": "2015-09-30T14:27:57",
+    "labels": [
+      "Affects-dev"
+    ],
+    "merge_commit": "0aa9fbedb7a012405a2d3786f19159459b7dce88",
+    "merged": "2015-10-01T14:03:51",
+    "milestone": "v1.0.4",
+    "title": "Fix py.test rootdir on OSX",
+    "updated": "2017-05-29T17:04:42"
+  },
+  "196": {
+    "created": "2015-10-03T13:12:21",
+    "labels": [],
+    "merge_commit": "a7f6f6c7e9727e1f89eda1d7ea93f141148ce1bb",
+    "merged": "2015-10-05T17:08:59",
+    "milestone": "v1.0.7",
+    "title": "Fix undefined usage of \u2018six\u2019",
+    "updated": "2016-06-02T21:38:06"
+  },
+  "199": {
+    "created": "2015-10-26T14:35:45",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "c0039cd53fc13436b3a0109e42734f4525ec4c76",
+    "merged": "2015-11-20T20:39:53",
+    "milestone": "v1.0.6",
+    "title": "making sure run commands returns 1 if fails",
+    "updated": "2015-11-20T20:40:20"
+  },
+  "202": {
+    "created": "2015-11-19T22:00:00",
+    "labels": [
+      "bug",
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "0f0e0e9091fe19f52412c129e2a9dfb565804d5d",
+    "merged": "2015-11-20T22:19:51",
+    "milestone": "v1.1.0",
+    "title": "DistutilsClassError - astropy_helpers.setup_helpers.test must provide user_options",
+    "updated": "2017-05-29T18:53:22"
+  },
+  "203": {
+    "created": "2015-11-04T22:13:52",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "6d6ef28f3af4e8b921e20439a5e77f7bfd2be311",
+    "merged": "2015-11-12T21:31:16",
+    "milestone": "v1.1.0",
+    "title": "Updating .travis to reflect recent miniconda changes",
+    "updated": "2017-05-29T17:06:34"
+  },
+  "205": {
+    "created": "2015-11-23T18:21:52",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "eb8b3416da77db4b3c87fbaee5fef8b75df439a7",
+    "merged": "2015-11-24T23:12:52",
+    "milestone": "v1.1.0",
+    "title": "Partial workaround for #204",
+    "updated": "2017-05-29T18:51:22"
+  },
+  "206": {
+    "created": "2015-11-23T20:49:23",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "9de3c5aeb8a1ccb4d0fd9435de3b3fc4da05781b",
+    "merged": "2015-12-02T19:35:55",
+    "milestone": "v1.0.6",
+    "title": "Use ci-helpers",
+    "updated": "2017-05-29T18:44:59"
+  },
+  "208": {
+    "created": "2015-12-04T21:39:56",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "b9341d8e317c90f4610010858585e967a00ec85d",
+    "merged": "2015-12-04T22:44:20",
+    "milestone": "v1.0.6",
+    "title": "Run tests on Python 3.5 where possible",
+    "updated": "2017-05-29T18:38:54"
+  },
+  "21": {
+    "created": "2014-05-22T08:09:10",
+    "labels": [],
+    "merge_commit": "3953f97bdb673bcdf4e59c19b48473ed1e064368",
+    "merged": "2014-05-22T08:48:45",
+    "milestone": "v0.4.0",
+    "title": "Update from astropy",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "210": {
+    "created": "2015-12-17T21:32:51",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "6253bfb155eed36276429d2e2bb79dcddc5f5cc5",
+    "merged": "2015-12-21T23:26:01",
+    "milestone": "v1.1.1",
+    "title": "Provides a fix for #209",
+    "updated": "2015-12-21T23:27:31"
+  },
+  "215": {
+    "created": "2016-01-23T13:49:36",
+    "labels": [],
+    "merge_commit": "d5e073e08a0aad4b7c824d7a8d07ddec348b70b9",
+    "merged": "2016-03-11T19:23:06",
+    "milestone": "v1.2.0",
+    "title": "Add ways to include inherited members into generated class docs",
+    "updated": "2016-05-12T23:55:44"
+  },
+  "216": {
+    "created": "2016-02-02T20:46:42",
+    "labels": [],
+    "merge_commit": "040a4a8013380d2971703c02541ca4f7d0aca9c4",
+    "merged": "2016-04-21T21:39:20",
+    "milestone": "v1.2.0",
+    "title": "Python version dependent local sphinx inv",
+    "updated": "2016-06-02T21:26:59"
+  },
+  "217": {
+    "created": "2016-02-02T23:36:31",
+    "labels": [],
+    "merge_commit": "47f3ba2a92be476d6a773a9dfd75da193246f178",
+    "merged": "2016-02-04T19:53:45",
+    "milestone": "v1.1.2",
+    "title": "CSS fixes for documentation overflows",
+    "updated": "2016-11-23T18:34:13"
+  },
+  "22": {
+    "created": "2014-05-22T15:28:22",
+    "labels": [],
+    "merge_commit": "9f23cf63154d053bfb5d4cb544cb7930963c76a6",
+    "merged": "2014-05-23T06:41:08",
+    "milestone": "v0.4.0",
+    "title": "Change package-template git URL",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "220": {
+    "created": "2016-03-10T16:09:24",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "1f16d0f94496577cad769a92009f97b16684ca82",
+    "merged": "2016-03-10T17:00:35",
+    "milestone": "v1.2.0",
+    "title": "Included licenses in MANIFEST.in",
+    "updated": "2017-05-29T17:11:25"
+  },
+  "223": {
+    "created": "2016-03-29T09:24:44",
+    "labels": [],
+    "merge_commit": "237d284e87a17d09939e5b42da3ee8960de9c41a",
+    "merged": "2016-04-15T17:30:14",
+    "milestone": "v1.2.0",
+    "title": "build_sphinx now checks for \"build succeeded.\" on any line.",
+    "updated": "2016-06-02T21:27:06"
+  },
+  "224": {
+    "created": "2016-04-13T23:06:15",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "3a1f7998e00d29db6a9e66465f21fd2d635f44cd",
+    "merged": "2016-04-15T19:11:40",
+    "milestone": "v1.2.0",
+    "title": "Fixing extension warnings raised by sphinx 1.4",
+    "updated": "2016-06-10T14:04:15"
+  },
+  "225": {
+    "created": "2016-04-15T15:05:55",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "19c6096f0ef164479565d4e67ae95dfbbb41d0d4",
+    "merged": "2016-04-15T17:57:22",
+    "milestone": "v1.2.0",
+    "title": "Limiting versions of setuptools and sphinx",
+    "updated": "2016-06-02T21:39:54"
+  },
+  "226": {
+    "created": "2016-04-15T17:02:24",
+    "labels": [],
+    "merge_commit": "5c3ec5401163888e1487bf64aebbfdd52affd964",
+    "merged": "2016-06-03T09:49:26",
+    "milestone": "v1.2.0",
+    "title": "Cleanup PR",
+    "updated": "2016-11-23T18:34:13"
+  },
+  "229": {
+    "created": "2016-04-19T22:46:08",
+    "labels": [],
+    "merge_commit": "5d439140ae558c637bb98cf86834d958ac8ce398",
+    "merged": "2016-04-20T16:50:50",
+    "milestone": "v1.2.0",
+    "title": "Work around sphinx 1.4 warning",
+    "updated": "2016-06-10T14:03:32"
+  },
+  "230": {
+    "created": "2016-04-19T23:26:51",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "111b1e5d1d05e2dd9a73d13862327ac6f854be8a",
+    "merged": "2016-04-25T14:42:16",
+    "milestone": "v1.2.0",
+    "title": "rename _eva_ to apyhtest_eva",
+    "updated": "2016-06-10T14:26:10"
+  },
+  "232": {
+    "created": "2016-04-20T22:51:36",
+    "labels": [
+      "Affects-dev"
+    ],
+    "merge_commit": "504b157b6e6d8647e6c552a842a5e878e5f483c4",
+    "merged": "2016-06-02T22:52:32",
+    "milestone": "v1.2.0",
+    "title": "Adding the suppress_warnings config item ...",
+    "updated": "2016-06-10T14:05:55"
+  },
+  "235": {
+    "created": "2016-05-16T00:09:18",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "1187104189373bd7e509127be096dab5abd3171f",
+    "merged": "2016-05-25T20:50:11",
+    "milestone": "v1.2.0",
+    "title": "Add \"generated\" to list of directories build_sphinx -l removes",
+    "updated": "2016-06-02T21:40:12"
+  },
+  "238": {
+    "created": "2016-05-31T18:00:49",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "529eba5a3c3f43cbb19300db3275082c92110e80",
+    "merged": "2016-06-03T09:50:18",
+    "milestone": "v1.2.0",
+    "title": "Adding collections.Mapping to the local python3 inventory",
+    "updated": "2017-05-29T17:10:47"
+  },
+  "239": {
+    "created": "2016-06-02T21:52:23",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "87b47aca68ddd8290e833045056af9e399cd12dc",
+    "merged": "2016-06-03T12:36:55",
+    "milestone": "v1.2.0",
+    "title": "AppVeyor and Travis: update Python versions tested to 2.7, 3.3, 3.4, and 3.5",
+    "updated": "2016-11-23T18:34:13"
+  },
+  "24": {
+    "created": "2014-05-24T14:50:05",
+    "labels": [],
+    "merge_commit": "43436e2b017afb525959624e1204c845d2537898",
+    "merged": "2014-05-27T16:10:50",
+    "milestone": "v0.4.0",
+    "title": "Remove bdist_dmg functionality",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "241": {
+    "created": "2016-06-03T10:03:55",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "b856c6ed9c5c04f27d998a5ef4fe9d728a14ae82",
+    "merged": "2016-06-03T14:46:55",
+    "milestone": "v1.2.0",
+    "title": "Fix the AppVeyor builds",
+    "updated": "2016-06-03T14:46:55"
+  },
+  "244": {
+    "created": "2016-07-05T13:16:09",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "324d8696b51353736fd36cc9443344102717998d",
+    "merged": "2016-11-24T13:34:23",
+    "milestone": "v1.3.0",
+    "title": "Fix encoding error with automodapi_writereprocessed and py2",
+    "updated": "2016-11-24T13:39:00"
+  },
+  "246": {
+    "created": "2016-07-07T00:01:23",
+    "labels": [],
+    "merge_commit": "ee0964495ab22a8cddc7b14faffa81762d33fad1",
+    "merged": "2016-08-10T12:51:24",
+    "milestone": "v1.3.0",
+    "title": "Deprecate build_sphinx",
+    "updated": "2016-12-03T16:08:02"
+  },
+  "249": {
+    "created": "2016-08-28T22:03:04",
+    "labels": [],
+    "merge_commit": "8be077807e2c06d86661bf7e34613056fc0d4a9d",
+    "merged": "2017-04-05T19:49:56",
+    "milestone": "v2.0.0",
+    "title": "Add support for package that lies in a subdirectory",
+    "updated": "2017-05-29T16:48:09"
+  },
+  "25": {
+    "created": "2014-05-26T16:01:45",
+    "labels": [],
+    "merge_commit": "931147db2b2cea423235976a7ad0b227d929d435",
+    "merged": "2014-06-02T05:57:09",
+    "milestone": "v0.4.0",
+    "title": "Adding local python3 intersphinx inv",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "251": {
+    "created": "2016-09-06T07:43:42",
+    "labels": [
+      "Affects-dev",
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "23f3e832a69b97911ad24091197d2cac2aab9ffe",
+    "merged": "2016-11-24T13:40:58",
+    "milestone": "v1.3.0",
+    "title": "Fix AstropyBuildSphinx",
+    "updated": "2016-11-24T13:42:13"
+  },
+  "257": {
+    "created": "2016-10-05T13:58:13",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "2732e3a5dadc60169aef90ac887e5726526e253e",
+    "merged": "2016-10-06T10:07:57",
+    "milestone": "v1.3.0",
+    "title": "Replaced copy2 with copy in build_ext",
+    "updated": "2016-10-06T13:51:39"
+  },
+  "259": {
+    "created": "2016-10-21T10:35:08",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "066b19c9c3c3cfa0a661583707ff3725e6ec771c",
+    "merged": "2016-11-24T22:46:56",
+    "milestone": "v1.3.0",
+    "title": "Updating ez_setup to the latest version",
+    "updated": "2016-12-03T16:09:05"
+  },
+  "261": {
+    "created": "2016-10-27T11:03:10",
+    "labels": [],
+    "merge_commit": "7c217621303f805856a2f760761212c2cc99bb7c",
+    "merged": "2016-12-08T22:53:30",
+    "milestone": "v1.3.0",
+    "title": "Force the use of Cython's old build_ext command",
+    "updated": "2016-12-09T08:18:29"
+  },
+  "263": {
+    "created": "2016-11-18T08:24:23",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "7d47c61f5e18d7470ca1b875f35b5d7e06ee97c2",
+    "merged": "2016-11-23T17:43:43",
+    "milestone": "v1.3.0",
+    "title": "Update CHANGES.rst with version 1.2 release date",
+    "updated": "2016-11-23T17:47:05"
+  },
+  "264": {
+    "created": "2016-12-05T07:41:03",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "0d5443573ee470830501a07dc02cde85e75f455f",
+    "merged": "2016-12-05T12:09:19",
+    "milestone": "v1.3.0",
+    "title": "Link to Github repo from PyPI",
+    "updated": "2016-12-05T12:09:19"
+  },
+  "266": {
+    "created": "2016-11-24T16:42:58",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "6abf6e605f8da869a415d4ac708a1d9675dc9aa9",
+    "merged": "2016-12-03T12:15:45",
+    "milestone": "v1.3.0",
+    "title": "Updating bundled numpydoc version to v0.6",
+    "updated": "2016-12-03T12:17:54"
+  },
+  "267": {
+    "created": "2016-11-24T21:24:21",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "896a7d3d4280ee452ec7960b24c55d972157a42e",
+    "merged": "2016-12-03T16:00:46",
+    "milestone": "v1.3.0",
+    "title": "Adding back sphinx building for Appveyor",
+    "updated": "2016-12-03T16:00:47"
+  },
+  "268": {
+    "created": "2016-11-24T22:37:39",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "6a41f41a9457a7fcdf0aede34257cf54c373ec2f",
+    "merged": "2016-11-24T23:04:40",
+    "milestone": "v1.3.0",
+    "title": "Adding collections.abc classes to the local sphinx inventories",
+    "updated": "2016-11-24T23:04:40"
+  },
+  "269": {
+    "created": "2016-11-26T03:36:27",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "1c3046309797e0bb31b9517c8e7176a7c02868ec",
+    "merged": "2016-12-03T12:56:54",
+    "milestone": "v1.3.0",
+    "title": "Remove unused sys import",
+    "updated": "2016-12-03T12:57:00"
+  },
+  "27": {
+    "created": "2014-05-30T00:41:41",
+    "labels": [],
+    "merge_commit": "4a79665e59a87dc697afe2782554fc6c32d66db3",
+    "merged": "2014-06-02T16:42:07",
+    "milestone": "v0.4.0",
+    "title": "Add --no-git argument to setup.py, recognized by ah_bootstrap",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "272": {
+    "created": "2016-12-03T16:29:32",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "4191b078e3497cc581a9c93632598ba8dfbcbecc",
+    "merged": "2016-12-03T16:29:44",
+    "milestone": "v1.3.0",
+    "title": "Update broken PyPI url in setup",
+    "updated": "2016-12-03T16:29:44"
+  },
+  "273": {
+    "created": "2016-12-03T17:03:49",
+    "labels": [
+      "no-changelog-entry-needed",
+      "Ready-for-final-review"
+    ],
+    "merge_commit": "4d13adffcc3f7896883389086f19f485ee01b18a",
+    "merged": "2016-12-08T00:00:21",
+    "milestone": "v1.3.0",
+    "title": "Skip registering build_docs if sphinx missing some of its dependencies.",
+    "updated": "2016-12-08T00:00:21"
+  },
+  "275": {
+    "created": "2016-12-07T18:30:22",
+    "labels": [
+      "Critical",
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "de5de3c7d8579356b1416aba04593ac16eaf03f1",
+    "merged": "2016-12-07T19:51:34",
+    "milestone": "v1.3.0",
+    "title": "Changing deprecated usage of 2 latex config items",
+    "updated": "2016-12-07T19:59:17"
+  },
+  "277": {
+    "created": "2016-12-12T00:17:33",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "7141f2239472afdd2382c47dae4d6e136d3fd438",
+    "merged": "2016-12-16T22:11:35",
+    "milestone": "v1.3.0",
+    "title": "Address pytest deprecations",
+    "updated": "2017-05-29T19:02:29"
+  },
+  "278": {
+    "created": "2016-12-15T12:17:07",
+    "labels": [
+      "Ready-for-final-review"
+    ],
+    "merge_commit": "c37837322bc151c75ca5d6f2219605fbff9b3f1e",
+    "merged": "2017-01-10T16:30:08",
+    "milestone": "v2.0.0",
+    "title": "Move numpydoc and sphinx-automodapi to astropy_helpers.extern",
+    "updated": "2017-01-10T16:40:00"
+  },
+  "279": {
+    "created": "2016-12-15T15:34:57",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "231d01b0e4dc69300afe200473baa8091f91dc4f",
+    "merged": "2016-12-15T16:01:35",
+    "milestone": "v1.3.0",
+    "title": "Need to run bootstrap.py when installing the developer version of setuptools",
+    "updated": "2017-05-29T19:02:18"
+  },
+  "283": {
+    "created": "2016-12-23T23:42:14",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "9f1eab94eb544488a854d454d3638e66fecbe9c7",
+    "merged": "2016-12-24T00:21:36",
+    "milestone": "v1.3.1",
+    "title": "Running cron build for only one version",
+    "updated": "2016-12-24T00:39:45"
+  },
+  "284": {
+    "created": "2016-12-24T00:15:45",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "839b51729561c9d18cbb91bfbf9506ec3da2d1f0",
+    "merged": "2016-12-29T15:11:16",
+    "milestone": "v1.3.1",
+    "title": "Adding python 3.6 for testing",
+    "updated": "2016-12-29T15:11:17"
+  },
+  "286": {
+    "created": "2017-01-26T13:39:54",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "4070e14b3e7129086cdfed66913516c4fb100885",
+    "merged": "2017-01-31T14:20:56",
+    "milestone": "v1.3.1",
+    "title": "Remove download_url from setup.py",
+    "updated": "2017-01-31T14:20:56"
+  },
+  "287": {
+    "created": "2017-02-20T20:07:29",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "e47a708fb61e686eb9f93212eaf2b2603519d76f",
+    "merged": "2017-02-20T21:11:47",
+    "milestone": "v1.3.1",
+    "title": "Fix button to hide output in documentation code blocks",
+    "updated": "2017-03-09T20:15:58"
+  },
+  "289": {
+    "created": "2017-02-22T19:25:16",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "fa19438d3903a66bc0b690c9f66324309a4d71f5",
+    "merged": "2017-02-23T14:27:28",
+    "milestone": "v1.3.1",
+    "title": "Fix a bug with build_doc -l (clean)",
+    "updated": "2017-02-23T14:28:50"
+  },
+  "29": {
+    "created": "2014-06-01T22:33:00",
+    "labels": [],
+    "merge_commit": "56f3888676317bc8538db76052702bff4a475fc0",
+    "merged": "2014-06-02T05:57:30",
+    "milestone": "v0.4.0",
+    "title": "Use -j option for parallel testing",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "292": {
+    "created": "2017-03-04T19:04:10",
+    "labels": [],
+    "merge_commit": "5dd84e6f8c537b51fb3804079cb689c31d24af2b",
+    "merged": "2017-06-02T14:44:31",
+    "milestone": "v2.0.0",
+    "title": "Fix build_sphinx error catcher",
+    "updated": "2017-06-02T14:44:31"
+  },
+  "293": {
+    "created": "2017-03-14T22:05:45",
+    "labels": [],
+    "merge_commit": "0ede7eee6745ea0e8170c992f356ad72bf13f6df",
+    "merged": "2017-03-17T21:32:58",
+    "milestone": "v1.3.1",
+    "title": "Adding astropy hosted intersphinx inventories as backup versions",
+    "updated": "2017-03-20T11:45:43"
+  },
+  "295": {
+    "created": "2017-04-11T20:27:07",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "b5b722345db475d91edb9fbae41d3d0364d6764a",
+    "merged": "2017-04-11T22:52:32",
+    "milestone": "v1.3.2",
+    "title": "Python intersphinx target has moved to https",
+    "updated": "2017-04-11T23:06:11"
+  },
+  "296": {
+    "created": "2017-04-11T22:56:59",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "30b8b19928ca5f1fbbdf2d3b15b54dddd22adc66",
+    "merged": "2017-04-11T22:57:09",
+    "milestone": "v2.0.0",
+    "title": "Running setuptool dev test from cron",
+    "updated": "2017-04-11T22:57:09"
+  },
+  "298": {
+    "created": "2017-04-19T19:24:30",
+    "labels": [],
+    "merge_commit": "855f759a47afae7098c08f83850392e1836d97cd",
+    "merged": "2017-04-20T12:45:30",
+    "milestone": "v2.0.0",
+    "title": "Removing compat.subprocess",
+    "updated": "2017-04-20T12:45:30"
+  },
+  "3": {
+    "created": "2014-05-20T07:40:55",
+    "labels": [],
+    "merge_commit": "db62a14a76243a5e648e01a3c91f3d4efb6d7973",
+    "merged": "2014-06-03T12:15:31",
+    "milestone": "v0.4.0",
+    "title": "Update numpydoc",
+    "updated": "2016-06-02T21:06:28"
+  },
+  "30": {
+    "created": "2014-06-02T13:00:15",
+    "labels": [],
+    "merge_commit": "3eb758c769d92f83d3e152c9312d1a69374db02f",
+    "merged": "2014-06-03T12:03:06",
+    "milestone": "v0.4.0",
+    "title": "Fix smart resolver for descriptor classes",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "300": {
+    "created": "2017-05-09T10:34:22",
+    "labels": [],
+    "merge_commit": "68fcf334ba9e23c09f93daaed3f7e39c84b1d3a7",
+    "merged": "2017-05-09T14:10:25",
+    "milestone": "v2.0.0",
+    "title": "Dropping Python3.3 from the supported versions",
+    "updated": "2017-05-09T14:10:25"
+  },
+  "303": {
+    "created": "2017-05-24T20:38:37",
+    "labels": [],
+    "merge_commit": "6ebb84d1ae17c67c26b745685d34f4b206d825b8",
+    "merged": "2017-05-24T23:40:36",
+    "milestone": "v2.0.0",
+    "title": "Update sphinx-automodapi to v0.4",
+    "updated": "2017-05-24T23:41:20"
+  },
+  "306": {
+    "created": "2017-05-30T10:07:26",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "2061254f6b86a5ea39be7d8d2ecbfb2c51755637",
+    "merged": "2017-05-30T14:14:24",
+    "milestone": "v1.3.2",
+    "title": "Fix errors reported by pyflakes",
+    "updated": "2017-05-30T16:58:27"
+  },
+  "308": {
+    "created": "2017-05-30T10:30:22",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "6a87f34ada0bf10f86bae8b0114e0873870ec330",
+    "merged": "2017-05-30T23:34:05",
+    "milestone": "v1.3.2",
+    "title": "Fix compatibility with latest version of setuptools",
+    "updated": "2017-05-31T10:56:31"
+  },
+  "309": {
+    "created": "2017-05-30T17:14:57",
+    "labels": [],
+    "merge_commit": "b28087d0469d183ec013884b67725ed5320f2bba",
+    "merged": "2017-05-30T20:05:59",
+    "milestone": "v2.0.0",
+    "title": "Updating bundled sphinx-automodapi to v0.5",
+    "updated": "2017-05-30T20:05:59"
+  },
+  "310": {
+    "created": "2017-05-31T13:32:19",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "1cb4c3a90734768aa55a485c06acd09b067f4120",
+    "merged": "2017-06-01T17:01:39",
+    "milestone": "v2.0.0",
+    "title": "Reducing the number of travis jobs",
+    "updated": "2017-06-01T17:01:39"
+  },
+  "312": {
+    "created": "2017-06-03T17:12:42",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "01cfa7ab003f38a64aee9db87f43760b3fb78610",
+    "merged": "2017-06-08T00:08:19",
+    "milestone": "v2.0.0",
+    "title": " Removing python2.6 and python3.3 workarounds",
+    "updated": "2017-06-08T00:08:19"
+  },
+  "313": {
+    "created": "2017-06-03T17:14:13",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "54a3a135282727aaa320ea336e8b8c1babc6dd56",
+    "merged": "2017-06-03T20:43:24",
+    "milestone": "v1.3.2",
+    "title": "Fixing classname typos in ah_bootstrap",
+    "updated": "2017-06-03T20:43:24"
+  },
+  "314": {
+    "created": "2017-06-04T01:41:18",
+    "labels": [],
+    "merge_commit": "e1c8b244a141fe94c19c34c43e663d6ed0c576a3",
+    "merged": "2017-06-05T10:39:43",
+    "milestone": "v3.0.0",
+    "title": "Remove deprecated _test_compat",
+    "updated": "2017-06-26T12:06:47"
+  },
+  "315": {
+    "created": "2017-06-07T17:25:19",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "f939377eddb760837a0f1b2fa919da3384653639",
+    "merged": "2017-06-07T17:25:32",
+    "milestone": "v2.0.0",
+    "title": "Use the generic ci-helpers script",
+    "updated": "2017-06-07T17:25:32"
+  },
+  "318": {
+    "created": "2017-06-19T14:32:11",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "cedea99ee3a4a0829dc64ba81c80bcf7f74027c8",
+    "merged": "2017-06-19T15:38:28",
+    "milestone": "v2.0.0",
+    "title": "Importing typing to workaround issues with doc builds",
+    "updated": "2017-06-20T18:38:27"
+  },
+  "321": {
+    "created": "2017-06-22T16:48:03",
+    "labels": [],
+    "merge_commit": "3475f5e1846fa821558871ff4037ead6c7857ed0",
+    "merged": "2017-06-22T20:18:30",
+    "milestone": "v2.0.0",
+    "title": "Updating ez_setup to the last version of 33.1.1",
+    "updated": "2017-06-22T20:18:30"
+  },
+  "322": {
+    "created": "2017-06-22T17:18:01",
+    "labels": [
+      "no-changelog-entry-needed",
+      "testing"
+    ],
+    "merge_commit": "2460ea6fa6ea9a6d07a41bcadc8f412140a67408",
+    "merged": "2017-06-23T23:20:11",
+    "milestone": "v2.0.0",
+    "title": "Adding sphinx dev testing to the travis matrix",
+    "updated": "2017-06-23T23:20:11"
+  },
+  "326": {
+    "created": "2017-07-10T14:16:47",
+    "labels": [
+      "bug",
+      "sphinx",
+      "testing"
+    ],
+    "merge_commit": "46998a264770c021f817f678c78624bee338d446",
+    "merged": "2017-07-11T10:51:36",
+    "milestone": "v2.0.1",
+    "title": "Fixing compatibility with sphinx <1.5",
+    "updated": "2017-07-28T19:24:15"
+  },
+  "33": {
+    "created": "2014-06-03T13:45:15",
+    "labels": [],
+    "merge_commit": "e924ead1499d1e4ba22eb0e91e2674b8a322bea6",
+    "merged": "2014-06-04T08:52:49",
+    "milestone": "v0.4.0",
+    "title": "Fix astropy/astropy#2418 -- fix crash in smart_resolver when lookup fails",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "330": {
+    "created": "2017-08-15T20:11:08",
+    "labels": [],
+    "merge_commit": "546604a29dfcb3f3900d465c645acacd83cf2d5b",
+    "merged": "2017-09-25T14:54:43",
+    "milestone": "v2.0.2",
+    "title": "Fix warnings",
+    "updated": "2017-09-25T14:57:13"
+  },
+  "331": {
+    "created": "2017-08-15T22:00:37",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "14126454bc3158dfe4fad0f564d9cebaf1e37d60",
+    "merged": "2017-10-11T17:00:22",
+    "milestone": "v2.0.2",
+    "title": "Fix broken package exclusion caching behavior",
+    "updated": "2017-10-11T17:16:32"
+  },
+  "332": {
+    "created": "2017-08-21T07:54:04",
+    "labels": [],
+    "merge_commit": "aaa4506595b88d46c2cffe06741e36947bb58a55",
+    "merged": "2017-08-28T09:54:00",
+    "milestone": "v3.0.0",
+    "title": "Remove register command",
+    "updated": "2017-08-28T09:54:00"
+  },
+  "335": {
+    "created": "2017-08-31T18:05:38",
+    "labels": [
+      "sphinx"
+    ],
+    "merge_commit": "593328a089def38a425edb2cabf711ce84c2a4a9",
+    "merged": "2017-10-11T19:42:28",
+    "milestone": "v2.0.2",
+    "title": "Allow Sphinx doctest extension to recognize standard doctest directives",
+    "updated": "2017-10-11T19:42:35"
+  },
+  "340": {
+    "created": "2017-09-26T11:54:06",
+    "labels": [],
+    "merge_commit": "1b33b95876f44ba8af14c4de941bb9affd245c4e",
+    "merged": "2018-01-04T17:29:45",
+    "milestone": "v3.0.0",
+    "title": "Removing python2 support",
+    "updated": "2018-01-11T16:48:01"
+  },
+  "341": {
+    "created": "2017-09-26T15:46:31",
+    "labels": [],
+    "merge_commit": "231766d4e33ea4f2a0d87f46e8046755b431eff7",
+    "merged": "2017-09-29T16:23:40",
+    "milestone": "v2.0.2",
+    "title": "Allow to override build date",
+    "updated": "2017-09-29T16:23:47"
+  },
+  "342": {
+    "created": "2017-09-30T11:23:57",
+    "labels": [
+      "merge-when-ci-passes"
+    ],
+    "merge_commit": "c0f89b3d7df752fb7d3c83daf863b28bd9830e7b",
+    "merged": "2017-10-09T13:03:47",
+    "milestone": "v2.0.2",
+    "title": "Use mathjax instead of imgmath",
+    "updated": "2017-10-09T13:06:14"
+  },
+  "343": {
+    "created": "2017-09-30T15:12:42",
+    "labels": [],
+    "merge_commit": "b063aa58edd8f5d014b5e79bf268af91be9a5351",
+    "merged": "2017-09-30T22:20:04",
+    "milestone": "v2.0.2",
+    "title": "Update numpydoc to v0.7",
+    "updated": "2017-09-30T22:20:04"
+  },
+  "344": {
+    "created": "2017-09-30T18:20:21",
+    "labels": [],
+    "merge_commit": "a58af8e8fceaef919d4437f13c003def5f862649",
+    "merged": "2017-09-30T19:10:09",
+    "milestone": "v2.0.2",
+    "title": "Mark sphinx extensions as parallel-safe",
+    "updated": "2017-09-30T19:10:18"
+  },
+  "346": {
+    "created": "2017-10-03T19:15:54",
+    "labels": [
+      "enhancement",
+      "Ready-for-final-review"
+    ],
+    "merge_commit": "d7bb831aff2a22d31392410164828c97368e0912",
+    "merged": "2017-10-10T13:50:48",
+    "milestone": "v2.0.2",
+    "title": "Added a helper function to add OpenMP compilation flags if available",
+    "updated": "2017-10-11T11:19:15"
+  },
+  "348": {
+    "created": "2017-10-10T14:54:21",
+    "labels": [
+      "bug",
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "6dcb212190187134e129e563636ba2d17957a8ea",
+    "merged": "2017-10-10T16:06:13",
+    "milestone": "v2.0.2",
+    "title": "Add fallback for when stdout locale isn't defined",
+    "updated": "2017-10-10T16:06:13"
+  },
+  "349": {
+    "created": "2017-10-10T15:58:01",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "12f7235bc29c16367a6e941de93422495895bfea",
+    "merged": "2017-10-10T21:11:13",
+    "milestone": "v2.0.2",
+    "title": "Don't install graphviz on CI services",
+    "updated": "2017-10-10T21:11:21"
+  },
+  "35": {
+    "created": "2014-06-04T13:44:21",
+    "labels": [],
+    "merge_commit": "636100fc7e64ba6c7dff6de0473bd600a340f77b",
+    "merged": "2014-06-04T15:30:32",
+    "milestone": "v0.4.0",
+    "title": "Problem using setup_helpers ",
+    "updated": "2014-06-20T13:37:17"
+  },
+  "353": {
+    "created": "2017-10-11T08:17:59",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "1906597669db447a293fe5bc52eca058f969ca35",
+    "merged": "2017-10-11T09:48:13",
+    "milestone": "v2.0.2",
+    "title": "Fix warnings in C code compilation for OpenMP",
+    "updated": "2017-10-11T09:48:13"
+  },
+  "354": {
+    "created": "2017-10-13T16:06:06",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "af716afd495ab8d397e04fc8c8cebcd733583f5b",
+    "merged": "2017-10-13T16:15:54",
+    "milestone": "v2.0.3",
+    "title": "Fix mistake in README",
+    "updated": "2017-10-14T06:00:23"
+  },
+  "355": {
+    "created": "2017-10-15T17:48:12",
+    "labels": [
+      "Docs",
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "6f31c21c8a49ae4ea92bd9b0a7a5e105639c449c",
+    "merged": "2017-10-15T19:03:18",
+    "milestone": "v2.0.3",
+    "title": "Minor fix for numpydoc",
+    "updated": "2017-10-15T19:03:18"
+  },
+  "358": {
+    "created": "2017-11-07T20:24:59",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "05ab056575ca7bfa874d43f8a44657c86a9d9354",
+    "merged": "2017-11-09T02:11:27",
+    "milestone": "v2.0.3",
+    "title": "Minor PEP8 fixes",
+    "updated": "2018-01-05T00:54:56"
+  },
+  "360": {
+    "created": "2018-01-13T10:27:35",
+    "labels": [
+      "no-changelog-entry-needed"
+    ],
+    "merge_commit": "d7a04afcb793d8db4ee6703dbbc4a8c155c5a176",
+    "merged": "2018-01-16T10:22:23",
+    "milestone": "v3.0.0",
+    "title": "Add python_requires to setup.py",
+    "updated": "2018-01-16T10:22:23"
+  },
+  "362": {
+    "created": "2018-01-16T10:40:13",
+    "labels": [
+      "Manual Backport"
+    ],
+    "merge_commit": "07211a88712a1cfa1ebb2df855bf90a28057f710",
+    "merged": "2018-01-18T12:25:47",
+    "milestone": "v2.0.3",
+    "title": "Fix fetching of astropy-helpers on Python 2",
+    "updated": "2018-01-18T12:25:52"
+  },
+  "365": {
+    "created": "2018-01-18T11:16:02",
+    "labels": [],
+    "merge_commit": "39328de21b798da8180d2d78bf40c907d237a573",
+    "merged": "2018-01-18T13:49:33",
+    "milestone": "v2.0.3",
+    "title": "Update sphinx-automodapi to v0.7",
+    "updated": "2018-01-18T13:49:33"
+  },
+  "366": {
+    "created": "2018-01-19T11:18:25",
+    "labels": [],
+    "merge_commit": "17f64dcbe9286866905b9392cbb703abe193365e",
+    "merged": "2018-01-19T12:40:06",
+    "milestone": "v2.0.3",
+    "title": "Add command-line flags to control usage of system installation of astropy-helpers",
+    "updated": "2018-01-19T12:46:52"
+  },
+  "38": {
+    "created": "2014-06-07T17:19:22",
+    "labels": [],
+    "merge_commit": "23a568aa6889c59191e84f7579f4099b296ba46d",
+    "merged": "2014-06-07T21:33:07",
+    "milestone": "v0.4.0",
+    "title": "Set the api dir from the source dir parameter.",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "39": {
+    "created": "2014-06-07T21:27:05",
+    "labels": [],
+    "merge_commit": "08fab1b427db54ab239499ae0a81f26a5ba91afa",
+    "merged": "2014-09-02T14:52:44",
+    "milestone": "v1.0.0",
+    "title": "Refactor AstropyTest to make it easier to subclass.",
+    "updated": "2014-09-02T14:52:55"
+  },
+  "42": {
+    "created": "2014-06-11T11:29:56",
+    "labels": [],
+    "merge_commit": "a7fec7bdeec87874bee6583b2d84d7a2cd3df054",
+    "merged": "2015-10-15T18:11:48",
+    "milestone": "v1.1.0",
+    "title": "Added a new ``list_data_files`` function that can be used to search for files recursively",
+    "updated": "2016-11-23T18:34:12"
+  },
+  "43": {
+    "created": "2014-06-26T21:03:04",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "f140785d27141305315112d599ba2cacd1ed38dc",
+    "merged": "2014-06-27T15:33:34",
+    "milestone": "v0.4.0",
+    "title": "Fix automodapi/automodsumm to document Cython functions",
+    "updated": "2014-07-06T06:44:20"
+  },
+  "44": {
+    "created": "2014-06-12T20:06:15",
+    "labels": [],
+    "merge_commit": "0085697eca2f9cf65332813ea6445860f435bbff",
+    "merged": "2014-06-13T14:52:57",
+    "milestone": "v0.4.0",
+    "title": "Fix doctests test path",
+    "updated": "2014-06-13T14:52:57"
+  },
+  "46": {
+    "created": "2014-06-19T19:45:14",
+    "labels": [],
+    "merge_commit": "12e95fe59d0850cda18f6fd2a48c175627d0b8a9",
+    "merged": "2014-06-22T14:20:18",
+    "milestone": "v0.4.0",
+    "title": "Allow for selecting the pkg-config executable",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "47": {
+    "created": "2014-06-20T18:19:03",
+    "labels": [],
+    "merge_commit": "ffa808a2e4b026a47019424ec1990773bfb51524",
+    "merged": "2014-06-20T20:18:52",
+    "milestone": "v0.4.0",
+    "title": "Fix minor string repr issue...",
+    "updated": "2014-06-20T20:18:53"
+  },
+  "48": {
+    "created": "2014-06-26T00:54:58",
+    "labels": [],
+    "merge_commit": "92862624bd55e2c79d69e57c661cde797601aa41",
+    "merged": "2014-06-26T19:22:51",
+    "milestone": "v0.4.0",
+    "title": "Fix edit_on_github links",
+    "updated": "2014-06-26T19:22:51"
+  },
+  "49": {
+    "created": "2014-06-26T16:23:49",
+    "labels": [],
+    "merge_commit": "27c55a6991e137ae447a5886faa96e409462a014",
+    "merged": "2014-06-26T18:06:07",
+    "milestone": "v0.4.0",
+    "title": "Update minimum Sphinx version to 1.2.1",
+    "updated": "2014-06-26T18:06:07"
+  },
+  "50": {
+    "created": "2014-06-27T16:50:45",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "8e0b64303bd258c5ed5f34f200a53c427eac8086",
+    "merged": "2014-06-27T17:41:15",
+    "milestone": "v0.4.0",
+    "title": "Do Sphinx version check ourselves",
+    "updated": "2014-06-27T17:41:15"
+  },
+  "51": {
+    "created": "2014-07-02T10:38:21",
+    "labels": [],
+    "merge_commit": "98c32d1d7145ba6847205c6f4087752793a0b2a3",
+    "merged": "2014-07-14T20:45:24",
+    "milestone": "v0.4.0",
+    "title": "Use except-as instead of comma for py3 compatibility",
+    "updated": "2016-06-02T21:06:52"
+  },
+  "54": {
+    "created": "2014-07-14T20:51:18",
+    "labels": [],
+    "merge_commit": "e95244eda1e19a749c7b311b19654f4c2fa8b899",
+    "merged": "2014-07-15T09:22:34",
+    "milestone": "v0.4.0",
+    "title": "Fixed a typo in ah_bootstrap.py",
+    "updated": "2014-07-15T12:33:41"
+  },
+  "55": {
+    "created": "2014-07-15T05:12:06",
+    "labels": [],
+    "merge_commit": "265c5a558bbbcd2aa27a04d9456c66dd5ed5894f",
+    "merged": "2014-07-15T15:27:34",
+    "milestone": "v0.4.0",
+    "title": "Update readme and a few other things for release",
+    "updated": "2014-07-15T19:16:45"
+  },
+  "57": {
+    "created": "2014-10-21T14:47:01",
+    "labels": [
+      "enhancement"
+    ],
+    "merge_commit": "0b12836f05c4980b0b8b0067259e1d46a87ca3c8",
+    "merged": "2014-10-21T21:14:00",
+    "milestone": "v0.4.3",
+    "title": "Switch .travis.yml to use conda",
+    "updated": "2014-10-21T21:14:00"
+  },
+  "58": {
+    "created": "2014-07-15T21:54:45",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "174b6b8c3f712d5045a3f658f1a138c64ad0f166",
+    "merged": "2014-07-23T15:04:04",
+    "milestone": "v0.4.1",
+    "title": "Test and possible workaround for Astropy #2749",
+    "updated": "2014-07-23T15:04:06"
+  },
+  "59": {
+    "created": "2014-07-16T14:22:08",
+    "labels": [],
+    "merge_commit": "2934b0d8db5070a2df3ef10b5ad50f19373accfb",
+    "merged": "2014-07-28T15:06:17",
+    "milestone": "v0.4.1",
+    "title": "Use the system monospace font in the docs",
+    "updated": "2014-07-28T15:06:17"
+  },
+  "6": {
+    "created": "2014-05-20T13:21:07",
+    "labels": [],
+    "merge_commit": "ce00bb73ffee275939ebd96c01b1d3f2c4a9481e",
+    "merged": "2014-05-21T05:51:31",
+    "milestone": "v0.4.0",
+    "title": "Ported over changes to Sphinx from astropy core package",
+    "updated": "2016-06-02T21:06:28"
+  },
+  "61": {
+    "created": "2014-07-21T22:50:52",
+    "labels": [],
+    "merge_commit": "016e2e2349169ab73b3829d9631fc91a08eb88b4",
+    "merged": "2014-07-25T21:13:57",
+    "milestone": "v0.4.1",
+    "title": "make changelog sphinx extension also apply to whatsnew pages",
+    "updated": "2014-07-25T21:13:58"
+  },
+  "62": {
+    "created": "2014-08-04T21:24:03",
+    "labels": [],
+    "merge_commit": "6052b9423ee440cade6cb5b755a2dd457a7e9e21",
+    "merged": "2014-08-05T16:19:46",
+    "milestone": "v0.4.1",
+    "title": "Explicitly show all git commands that are run",
+    "updated": "2014-08-05T16:19:47"
+  },
+  "66": {
+    "created": "2014-08-04T20:45:51",
+    "labels": [],
+    "merge_commit": "379f6d944346b5f5177f1b8f227d999d23dcf64b",
+    "merged": "2014-09-04T14:26:15",
+    "milestone": "v1.0.0",
+    "title": "Refactor most of ah_bootstrap.py into a class",
+    "updated": "2014-10-22T14:01:35"
+  },
+  "67": {
+    "created": "2014-08-05T15:42:37",
+    "labels": [],
+    "merge_commit": "dbc4987d688d8f9fff377a403bfcbe5e5fb41ec6",
+    "merged": "2014-08-06T16:00:54",
+    "milestone": "v0.4.1",
+    "title": "Prevent git from going to the internet when --offline is used",
+    "updated": "2014-08-06T16:00:56"
+  },
+  "69": {
+    "created": "2014-08-05T17:43:05",
+    "labels": [],
+    "merge_commit": "7f330cb3fa4bb9fdb09d9f750b116732b780a061",
+    "merged": "2014-08-07T18:24:50",
+    "milestone": "v0.4.2",
+    "title": "Fix CSS formatting of \"Other Parameters\" section",
+    "updated": "2014-08-07T20:11:59"
+  },
+  "70": {
+    "created": "2014-08-07T16:13:24",
+    "labels": [],
+    "merge_commit": "c59b14ff5f590b2abed55d2934af305ac713ad46",
+    "merged": "2014-08-07T20:12:32",
+    "milestone": "v0.4.1",
+    "title": "Alternate fix for #68",
+    "updated": "2014-08-07T20:12:32"
+  },
+  "76": {
+    "created": "2015-11-20T22:13:39",
+    "labels": [],
+    "merge_commit": "531a648c980a8ca2d0ad268e54b2e8bddb07664c",
+    "merged": "2015-11-24T20:29:25",
+    "milestone": "v1.1.0",
+    "title": "Compiler check should be skipped for pure-Python packages",
+    "updated": "2015-12-02T19:26:35"
+  },
+  "77": {
+    "created": "2014-08-22T14:41:15",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "edbaccd83abdbb5372cfc993b6f885d2979227eb",
+    "merged": "2014-08-22T15:14:40",
+    "milestone": "v0.4.2",
+    "title": "issue a less intrusive warning for using an old version of git",
+    "updated": "2014-08-22T15:14:40"
+  },
+  "78": {
+    "created": "2014-08-25T18:16:26",
+    "labels": [],
+    "merge_commit": "8c1e71e50de0036d111e0c85484540df2d6d8d61",
+    "merged": "2014-08-26T17:58:45",
+    "milestone": "v0.4.3",
+    "title": "Use six.iteritems for compatibility with python 3",
+    "updated": "2014-10-22T08:44:30"
+  },
+  "8": {
+    "created": "2014-05-20T20:51:30",
+    "labels": [],
+    "merge_commit": "a940c8f78bd6b5937d192bb7bd0f3e02c96be275",
+    "merged": "2014-05-21T05:47:16",
+    "milestone": "v0.4.0",
+    "title": "Revert sphinx changes",
+    "updated": "2016-06-02T21:06:28"
+  },
+  "80": {
+    "created": "2014-09-03T06:51:22",
+    "labels": [],
+    "merge_commit": "fbd0930629a9d9f5aba115c609317db00866e235",
+    "merged": "2014-09-04T13:55:36",
+    "milestone": "v0.4.2",
+    "title": "New Sphinx with extra values to unpack (using if)",
+    "updated": "2014-09-04T15:48:40"
+  },
+  "81": {
+    "created": "2014-09-03T23:42:35",
+    "labels": [],
+    "merge_commit": "5911ae140f36a04e7431bb528cb7c69b29be22c3",
+    "merged": "2014-09-04T13:52:38",
+    "milestone": "v0.4.2",
+    "title": "Fix Jinja version installed by Travis build",
+    "updated": "2014-09-04T13:52:39"
+  },
+  "82": {
+    "created": "2014-09-04T15:48:40",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "d76fdf8e9b74c695a1345bcccc5112f76ac3866c",
+    "merged": "2014-09-04T16:53:43",
+    "milestone": "v0.4.2",
+    "title": "modify import_by_name unpacking for sphinx >= 1.2.3",
+    "updated": "2015-09-02T18:46:12"
+  },
+  "84": {
+    "created": "2014-09-10T15:23:50",
+    "labels": [],
+    "merge_commit": "bb7e0702a9fc38680e3fc6bce27238da6e08b6e9",
+    "merged": "2014-09-10T16:25:47",
+    "milestone": "v0.4.2",
+    "title": "Don't use astropy's wheelhouse since it seems to be giving some problems...",
+    "updated": "2014-09-10T18:40:36"
+  },
+  "87": {
+    "created": "2014-09-16T22:09:28",
+    "labels": [
+      "enhancement"
+    ],
+    "merge_commit": "970385594dc3f80dd1b5405cda9d63a5f8945ad1",
+    "merged": "2014-09-26T15:24:16",
+    "milestone": "v0.4.3",
+    "title": "version.py does not hard-code githash for releases",
+    "updated": "2014-09-26T15:24:18"
+  },
+  "88": {
+    "created": "2014-09-22T23:02:47",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "9d2eabcb757866231dca82751f99456cf9b52ee5",
+    "merged": "2014-09-29T19:06:20",
+    "milestone": "v0.4.3",
+    "title": "Sphinx smart resolve Bases from intersphinx for affiliated packages",
+    "updated": "2014-10-25T21:03:23"
+  },
+  "89": {
+    "created": "2014-09-29T19:43:28",
+    "labels": [
+      "bug"
+    ],
+    "merge_commit": "3a534b1bccaea0c7742cbfd0395a5fff695de070",
+    "merged": "2014-09-29T20:56:41",
+    "milestone": "v0.4.3",
+    "title": "Development mode install from clean source fails on first attempt",
+    "updated": "2014-10-01T16:39:06"
+  },
+  "9": {
+    "created": "2014-05-20T20:57:02",
+    "labels": [],
+    "merge_commit": "e43c04675f73eb8f3e41149f7c96f1b1dd1fb11c",
+    "merged": "2014-05-21T05:41:34",
+    "milestone": "v0.4.0",
+    "title": "Remove package-template submodule",
+    "updated": "2016-06-02T21:06:28"
+  },
+  "90": {
+    "created": "2014-09-30T23:10:59",
+    "labels": [],
+    "merge_commit": "36cbf92a389e8ff6fdbec885927bd89cc0da8dbf",
+    "merged": "2014-10-01T16:19:42",
+    "milestone": "v0.4.3",
+    "title": "Skip argument of doctest-skip in the sphinx output",
+    "updated": "2014-10-01T16:19:42"
+  },
+  "91": {
+    "created": "2014-10-06T20:14:49",
+    "labels": [],
+    "merge_commit": "d31ef58462edbe64c0c130e7448523ec20051178",
+    "merged": "2014-10-06T22:46:40",
+    "milestone": "v0.4.3",
+    "title": "Don\u2019t use git if there is no .git directory",
+    "updated": "2014-10-06T22:46:40"
+  },
+  "92": {
+    "created": "2014-10-14T18:21:49",
+    "labels": [],
+    "merge_commit": "a98f62d72027fbf4a6d5b23ecb358986c6b9b774",
+    "merged": "2014-10-30T17:41:35",
+    "milestone": "v0.4.4",
+    "title": "Added repeat option",
+    "updated": "2014-10-30T17:41:35"
+  },
+  "96": {
+    "created": "2014-10-21T12:19:31",
+    "labels": [],
+    "merge_commit": "8a81145beef384ccc64e69aea205e2df7294f4c8",
+    "merged": "2014-10-21T22:55:43",
+    "milestone": "v0.4.3",
+    "title": "Remove dependency on six and enable sphinx tests on Python 3",
+    "updated": "2014-10-21T23:25:17"
+  },
+  "98": {
+    "created": "2014-10-21T15:57:04",
+    "labels": [],
+    "merge_commit": "a3b4f66c0421b04b781d604d54094fb3f48f2900",
+    "merged": "2014-10-21T19:29:56",
+    "milestone": "v0.4.3",
+    "title": "Bootstrap failures with Python 2",
+    "updated": "2014-10-21T19:29:58"
+  }
+}
