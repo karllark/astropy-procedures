@@ -4,26 +4,24 @@
 # it to the list in the "helpers_3.py" file to recieve updates for the
 # Python 3.5+ releases of astropy-helpers.
 
-repositories = sorted(set([
-    ('astropy', 'astroquery'),
-    ('astropy', 'pyregion'),
-    ('radio-astro-tools', 'spectral-cube'),
-    ('astropy', 'astroplan'),
-    ('astropy', 'astroscrappy'),
-    ('zblz', 'naima'),
-    ('RiceMunk', 'omnifit'),
-    ('astropy', 'halotools'),
-    ('pyspeckit', 'pyspeckit'),
-    ('linetools', 'linetools'),
-    ('astropy', 'astropy-healpix'),
-    ('spacetelescope', 'imexam'),
-    ('desihub', 'specsim'),
-    ('dkirkby', 'speclite'),
-    ('BEAST-Fitting', 'beast'),
-    ('PAHFIT', 'pahfit'),
-    ('karllark', 'dust_extinction'),
-    ('karllark', 'dust_attenuation'),
-    ('karllark', 'measure_extinction'),
-    ('matiscke', 'lcps'),
-    ('BEAST-Fitting', 'megabeast')
-]))
+repositories = sorted(
+    set(
+        [
+            ("astropy", "astroquery"),
+            ("astropy", "pyregion"),
+            ("radio-astro-tools", "spectral-cube"),
+            ("astropy", "astroplan"),
+            ("astropy", "astroscrappy"),
+            ("zblz", "naima"),
+            ("RiceMunk", "omnifit"),
+            ("astropy", "halotools"),
+            ("pyspeckit", "pyspeckit"),
+            ("linetools", "linetools"),
+            ("astropy", "astropy-healpix"),
+            ("spacetelescope", "imexam"),
+            ("desihub", "specsim"),
+            ("dkirkby", "speclite"),
+            ("matiscke", "lcps"),
+        ]
+    )
+)
